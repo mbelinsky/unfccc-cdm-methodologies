@@ -14,7 +14,7 @@ This repository contains Python scripts that transform UNFCCC Clean Development 
 ### Installation
 
 1. Clone the repository:
-> git clone https://github.com/your-username/unfccc-cdm-python.git
+> git clone https://github.com/mbelinsky/unfccc-cdm-methodologies.git
 2. Install the required Python packages:
 > pip install -r requirements.txt
 
