@@ -20,7 +20,7 @@ This repository contains Python scripts that transform UNFCCC Clean Development 
 
 ### Usage
 
-1. Place the PDF files of CDM methodologies in the associated `methodology reference number + name` directory.
+1. Place the PDF files of CDM methodologies in the associated `methodology reference number + name + version` directory.
 2. Run the script to convert PDFs to Python scripts.
 3. Place the Python script in associated directory.
 
